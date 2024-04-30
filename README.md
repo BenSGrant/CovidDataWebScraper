@@ -5,4 +5,4 @@ Flaws:
 
 Only reported cases can be counted
 
-Relies on the website being running and up to date
+Relies on the website being up and running and up to date
